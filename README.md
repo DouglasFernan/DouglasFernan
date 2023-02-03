@@ -13,4 +13,4 @@
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div> <br/>
 
-Apaixonado por tecnologia, já possuo algumas certificações de cursos que eu investi, atualmente cursando Análise e Desenvolvimento de Sistemas pelo (IFRN)
+Apaixonado por tecnologia, já possuo algumas certificações de cursos que eu investi, atualmente ingressando em Análise e Desenvolvimento de Sistemas pelo (IFRN)
