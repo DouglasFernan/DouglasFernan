@@ -19,7 +19,7 @@
 
 <div style="width: 1000px" >
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DouglasFernandes&show_icons=true&theme=dark&count_private=false)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DouglasFernandes&show_icons=true&theme=dark&count_private=true)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandes&layout=compact&theme=dark)
 
 </div>
