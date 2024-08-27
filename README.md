@@ -19,8 +19,8 @@
 
 <div style="width: 1000px" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talismar&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talismar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DouglasFernandes&show_icons=true&theme=dark&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandes&layout=compact&theme=dark)
 
 </div>
 
