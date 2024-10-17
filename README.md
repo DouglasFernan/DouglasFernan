@@ -1,4 +1,4 @@
-## Hi dear 👋, I'm Douglas Fernandes
+## Hi👋, I'm Douglas Fernandes
 
 - 🤙 I’m currently learning > Javascript, Typescript, HTML, CSS, Python, Django, React.js, PostgreSQL
   <br/>
