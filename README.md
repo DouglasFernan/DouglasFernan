@@ -1,6 +1,6 @@
 ## Hi dear 👋, I'm Douglas Fernandes
 
-- 🤙 I’m currently learning > Javascript, HTML, CSS, Python, C++
+- 🤙 I’m currently learning > Javascript, Typescript, HTML, CSS, Python, Django, React.js, PostgreSQL
   <br/>
   <br/>
 
