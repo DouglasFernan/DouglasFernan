@@ -1,4 +1,4 @@
-## Hi👋, I'm Douglas Fernandes
+## Hi👋, I'm Douglas 
 
 - 🤙 I’m currently learning > Python, DjangoREST, Next.js, PostgreSQL, QA automation (Selenium)
   <br/>
