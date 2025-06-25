@@ -1,6 +1,6 @@
 ## Hi👋, I'm Douglas 
 
-- 🤙 I’m currently learning > Python, DjangoREST, Next.js, PostgreSQL, QA automation (Selenium)
+- 🤙 I’m currently learning > React.js, Next.js, PostgreSQL, QA automation (Selenium, Playwright)
   <br/>
   <br/>
 
