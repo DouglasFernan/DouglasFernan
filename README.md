@@ -18,7 +18,7 @@ My journey began in **Software Quality Assurance**, where I was responsible for 
 
 - 🌱 I am currently deepening my knowledge in **Java** and honing my skills in **Next.js**.
 - 🚀 As a Full Stack Developer at NADIC, I focus on designing and developing complete web applications, using **Next.js** for the frontend and **Django** for the backend.
-- 📫 You can reach me at: **douglasgenetic@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/DouglasFernan/).
+- 📫 You can reach me at: **douglasgenetic@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/dougfernan/).
 
 ---
 
@@ -90,7 +90,7 @@ My journey began in **Software Quality Assurance**, where I was responsible for 
 
 ### 📫 Connect with Me!
 <p align="center">
-  <a href="https://www.linkedin.com/in/DouglasFernan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dougfernan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:douglasgenetic@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/5584988907022" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
