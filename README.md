@@ -78,8 +78,4 @@ Currently, I work at the **Center for Data Analysis and Computational Intelligen
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DouglasFernan/DouglasFernan/master/profile-3d-contrib/profile-night-rainbow.svg" alt="My 3D Contribution Graph" width="100%" />
-  
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasFernan&theme=dracula&hide_border=true&hide_total_contributions=true" alt="Douglas Streak" />
 </div>
