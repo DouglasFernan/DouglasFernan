@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3>Software Engineer | Full Stack Developer</h3>
+  <h3>Software Engineer</h3>
   <p>Building scalable web applications & exploring IoT solutions.</p>
   
   <a href="https://www.linkedin.com/in/dougfernan/">
